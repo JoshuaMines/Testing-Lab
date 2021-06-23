@@ -1,0 +1,23 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "main": "function.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaMines/Testing-Lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuaMines/Testing-Lab/issues"
+  },
+  "homepage": "https://github.com/JoshuaMines/Testing-Lab#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
